@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Dominiksbtr
+- 👋 Hi, I’m Dominik
 - Intrested in C#, Python
