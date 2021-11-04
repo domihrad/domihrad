@@ -5,5 +5,5 @@
 - Intrested in Software & GameDevelopment
 
 -Languages
-<img align="left" alt="JavaScript" width="26px" src="![image](https://user-images.githubusercontent.com/48279442/140416906-d9946b64-cc16-4a6c-b483-c50af5e14c99.png)" />
+<img align="left" alt="JavaScript" width="26px" src="https://www.clipartmax.com/png/middle/296-2963807_string-helper-class-c-logo.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
