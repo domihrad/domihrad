@@ -5,5 +5,6 @@
 - Intrested in Software & GameDevelopment
 
 -Languages
-<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-line.svg" sizes="16x16">
+<link rel="icon" type="image/png" href="![csharp](https://user-images.githubusercontent.com/48279442/140419829-0526ec90-4455-4afa-b798-e0074d39961f.jpg)" sizes="16x16">
 <img align="left" alt="C#" width="26px" src="<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" /> " />
+
