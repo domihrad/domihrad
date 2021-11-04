@@ -5,5 +5,5 @@
 - Intrested in Software & GameDevelopment
 
 -Languages
-<img align="left" alt="JavaScript" width="26px" src="https://www.clipartmax.com/png/middle/296-2963807_string-helper-class-c-logo.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://banner2.cleanpng.com/20180531/qfb/kisspng-c-programming-basics-for-absolute-beginners-comp-5b106126687fa9.960696831527800102428.jpg" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
