@@ -12,7 +12,7 @@
  
  </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="70"/> </a> 
  
-<img align="left" alt="C#" width="29px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
+<img align="left" alt="C#" width="40px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
 
 <img align="left" alt="Py" width="46px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" />
 
