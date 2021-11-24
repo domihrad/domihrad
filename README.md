@@ -13,4 +13,4 @@
 
 <img align="left" alt="Py" width="40px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" />
 
-<img align="left" alt="MYSQL" width="80px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" />
+<img align="left" alt="MYSQL" width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" />
