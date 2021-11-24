@@ -1,7 +1,7 @@
 - Hi, I’m Dominik Hradecký
 
 
-- Lickedin @[Link to Lickedin](https://www.linkedin.com/in/dominik-hradeck%C3%BD-700162225/)
+- Lickedin [Link to Lickedin](https://www.linkedin.com/in/dominik-hradeck%C3%BD-700162225/)
 - Intrested in Software & GameDevelopment
 
 
