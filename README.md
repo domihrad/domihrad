@@ -4,8 +4,8 @@
 ##### OS : Arch Linux => <a href="https://github.com/domihrad/dotfiles">AwesomeWM => ( Link to Dotfiles ) </a>
 ##### Languages and more :
 - Html
-- Css, Scss & Bootstrap 
-- JavaScript => ( Node, React, learning TypeScript ) => ( API usage )
+- Css, Scss & Bootstrap, Taiwlind 
+- JavaScript => ( Node, React, TypeScript )
 - Php => ( Twig ) 
 - Python => ( FastAPI, Flask, Beautiful Soup, MySQL, Pygame )
 - C# => ( EF Core )
