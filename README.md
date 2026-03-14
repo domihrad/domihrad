@@ -1,7 +1,6 @@
 ## domihrad
-#### | Full Stack Developer |
+#### | Developer |
 
-##### OS : Arch Linux => <a href="https://github.com/domihrad/dotfiles">AwesomeWM => ( Link to Dotfiles ) </a>
 ##### Languages and more :
 - Html
 - Css, Scss & Bootstrap, Taiwlind 
